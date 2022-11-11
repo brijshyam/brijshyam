@@ -1,4 +1,5 @@
-![Welcome to my profile (1)](https://user-images.githubusercontent.com/108238421/201390514-02b8ca41-0b4f-4088-ac49-27e06d086d12.gif | width=100)
+
+<img src="https://user-images.githubusercontent.com/108238421/201390514-02b8ca41-0b4f-4088-ac49-27e06d086d12.gif" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="400" height="200" />
 
 <h2 align="left">Hey Geeks👋, I'm <i>Brij Shyam Maurya</i></h2>
 <h3 color="Blue">😄 Pronouns </h3>
