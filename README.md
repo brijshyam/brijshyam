@@ -21,7 +21,7 @@ He/Him
 <a href="https://www.leetcode.com/brijshyam" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="brijshyam" height="30" width="40" /></a>
 </p>
-![image]([https://user-images.githubusercontent.com/108238421/201396505-4f270da9-2bd5-492f-a115-f4f3f1568480.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fnickthemarketer.com%2Fservices%2Fsocial-media-marketing%2Fsocial-media-management%2F&psig=AOvVaw2bYj_iKjFQMrOhlF4_UevX&ust=1668274244464000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMjs5__TpvsCFQAAAAAdAAAAABAT))
+![image]([https://user-images.githubusercontent.com/108238421/201396505-4f270da9-2bd5-492f-a115-f4f3f1568480.png])
 
 
 <h3 align="left">My Skill Set:</h3>
