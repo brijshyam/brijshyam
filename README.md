@@ -1,5 +1,5 @@
 <h2 align="left">Hey Geeks👋, I'm <i>Brij Shyam Maurya</i></h2>
-### 😄 Pronouns
+😄 Pronouns <br>
 He/Him
 <p align="justify">A passionate Coder and DSA Problem Solver. Having a Bachelor's Degree in Computer Science and Engineering I have a good communication- oral and written skill. Having worked in the industry of Photography, I hold an experience of Photography of more the 2.5 years. Now toiling day and night to get a deeper understanding of Data Structure and Algorithm, to reach a level of which back sometime I thought of.</p>
 
