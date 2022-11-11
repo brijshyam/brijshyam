@@ -1,5 +1,5 @@
+![Welcome to my profile (1)](https://user-images.githubusercontent.com/108238421/201390514-02b8ca41-0b4f-4088-ac49-27e06d086d12.gif)
 
-[![MasterHead](https://www.canva.com/design/DAFRqIqi-Oc/VmL2R6RENX5udHPiWW7EOA/watch?utm_content=DAFRqIqi-Oc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 <h2 align="left">Hey Geeks👋, I'm <i>Brij Shyam Maurya</i></h2>
 <h3 color="Blue">😄 Pronouns </h3>
 He/Him
