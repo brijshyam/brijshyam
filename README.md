@@ -3,7 +3,7 @@
 
 - 💬 We can discuss **DSA, Java, JavaScript, React** together
 
-- 📫 Reach out to me on **brijshyam@outlook.com**
+- 📫 Reach out to me on **brijshyam.maurya@outlook.com**
 
 - ⚡ Fun fact **I think I do have a sense of Humor which may not make you laugh.**
 
