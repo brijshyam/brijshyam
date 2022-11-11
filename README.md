@@ -13,7 +13,7 @@ He/Him
 - ⚡ Fun fact **I think I do have a sense of Humor which may not make you laugh.**
 
 <h3 align="left">You may want to connect with me on:</h3>
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/brij-shyam-maurya" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brij-shyam-maurya" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/brij_shyam" target="blank">
@@ -21,9 +21,11 @@ He/Him
 <a href="https://www.leetcode.com/brijshyam" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="brijshyam" height="30" width="40" /></a>
 </p>
+![image](https://user-images.githubusercontent.com/108238421/201396505-4f270da9-2bd5-492f-a115-f4f3f1568480.png)
+
 
 <h3 align="left">My Skill Set:</h3>
-<p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -38,8 +40,10 @@ He/Him
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+    ![image](https://user-images.githubusercontent.com/108238421/201396252-7565cd86-5fca-4bdf-b9a5-b748b1de20a4.png)
 
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=brijshyam&show_icons=true&theme=radical) &nbsp &nbsp &nbsp
+
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=brijshyam&show_icons=true&theme=radical)           
 ![github stats](https://github-readme-stats.vercel.app/api?username=brijshyam&show_icons=true&theme=radical)
 
 <!---
