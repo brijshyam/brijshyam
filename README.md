@@ -1,5 +1,5 @@
 
-[![MasterHead](https://www.canva.com/design/DAFRqIqi-Oc/VmL2R6RENX5udHPiWW7EOA/watch?utm_content=DAFRqIqi-Oc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)]
+[![MasterHead](https://www.canva.com/design/DAFRqIqi-Oc/VmL2R6RENX5udHPiWW7EOA/watch?utm_content=DAFRqIqi-Oc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 <h2 align="left">Hey Geeks👋, I'm <i>Brij Shyam Maurya</i></h2>
 <h3 color="Blue">😄 Pronouns </h3>
 He/Him
