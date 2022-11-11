@@ -21,7 +21,6 @@ He/Him
 <a href="https://www.leetcode.com/brijshyam" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="brijshyam" height="30" width="40" /></a>
 </p>
-![image]([https://user-images.githubusercontent.com/108238421/201396505-4f270da9-2bd5-492f-a115-f4f3f1568480.png])
 
 
 <h3 align="left">My Skill Set:</h3>
@@ -40,7 +39,6 @@ He/Him
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-    ![image](https://user-images.githubusercontent.com/108238421/201396252-7565cd86-5fca-4bdf-b9a5-b748b1de20a4.png)
 
 
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=brijshyam&show_icons=true&theme=radical)           
