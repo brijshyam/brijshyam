@@ -1,7 +1,10 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/108238421/201390514-02b8ca41-0b4f-4088-ac49-27e06d086d12.gif" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="300" height="150" />
 
+
+
 <h2 align="left">Hey Geeks👋, I'm <i>Brij Shyam Maurya</i></h2>
+
 <h3 color="Blue">😄 Pronouns </h3>
 He/Him
 <p align="justify">A passionate Coder and DSA Problem Solver. Having a Bachelor's Degree in Computer Science and Engineering I have a good communication- oral and written skill. Having worked in the industry of Photography, I hold an experience of Photography of more the 2.5 years. Now toiling day and night to get a deeper understanding of Data Structure and Algorithm, to reach a level of which back sometime I thought of.</p>
@@ -43,6 +46,9 @@ He/Him
 
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=brijshyam&show_icons=true&theme=radical)           
 ![github stats](https://github-readme-stats.vercel.app/api?username=brijshyam&show_icons=true&theme=radical)
+<br>
+![](https://komarev.com/ghpvc/?username=brijshyam&label=Total+Welcoms)
+
 
 <!---
 brijshyam/brijshyam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
