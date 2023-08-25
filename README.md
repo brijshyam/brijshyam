@@ -15,7 +15,7 @@ He/Him
 
 - ⚡ Fun fact **I think I do have a sense of Humor which may not make you laugh.**
 
-- 🗄  Visit https://brijshyam.netlify.app to know more.
+- 🗄  Visit https://brijshyam.teck to know more.
 
 <h3 align="left">You may want to connect with me on:</h3>
 <p align="center">
